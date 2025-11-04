@@ -1,7 +1,7 @@
 """Input handling for PyXMB."""
 
 import pygame
-from typing import Dict, List, Set
+from typing import Dict, List
 
 
 class InputHandler:
